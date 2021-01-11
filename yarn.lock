@@ -4307,10 +4307,10 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-vite@^2.0.0-beta.19:
-  version "2.0.0-beta.19"
-  resolved "https://registry.npm.taobao.org/vite/download/vite-2.0.0-beta.19.tgz?cache=0&sync_timestamp=1610256712147&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvite%2Fdownload%2Fvite-2.0.0-beta.19.tgz#9e1a3ff4843d8e72fc2b771691c43124ceeacd21"
-  integrity sha1-nho/9IQ9jnL8K3cWkcQxJM7qzSE=
+vite@^2.0.0-beta.21:
+  version "2.0.0-beta.21"
+  resolved "https://registry.yarnpkg.com/vite/-/vite-2.0.0-beta.21.tgz#9a7233c93ed59c5b5de28c3a74f1e94b815d746e"
+  integrity sha512-B6OhGHwh4DTkDBxZXtGhxmDkK75M3o0sKFz/cfZ2bdqxRze870sJgH66kPuYWjgSVDdPz0NTIKBaxrbcA8wwmw==
   dependencies:
     esbuild "^0.8.26"
     postcss "^8.2.1"
@@ -4353,10 +4353,10 @@ vue-eslint-parser@^7.0.0, vue-eslint-parser@^7.3.0:
     esquery "^1.0.1"
     lodash "^4.17.15"
 
-vue-router@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.npm.taobao.org/vue-router/download/vue-router-4.0.2.tgz?cache=0&sync_timestamp=1609112451616&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvue-router%2Fdownload%2Fvue-router-4.0.2.tgz#5702bf8fa14535b80142fde226bf41a84917b1f4"
-  integrity sha1-VwK/j6FFNbgBQv3iJr9BqEkXsfQ=
+vue-router@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-4.0.3.tgz#8b26050c88b2dec7e27a88835f71046b365823ec"
+  integrity sha512-AD1OjtVPyQHTSpoRsEGfPpxRQwhAhxcacOYO3zJ3KNkYP/r09mileSp6kdMQKhZWP2cFsPR3E2M3PZguSN5/ww==
 
 vue@^3.0.5:
   version "3.0.5"
