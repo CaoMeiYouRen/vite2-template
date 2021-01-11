@@ -3,13 +3,13 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "vite",
-    "build": "vuedx-typecheck . && vite build",
+    "build": "vite build",
     "lint": "cross-env NODE_ENV=production eslint src --fix --ext .js,.ts,.vue"
   },
   "dependencies": {
     "vue": "^3.0.5",
     "vue-composable": "^1.0.0-beta.14",
-    "vue-router": "^4.0.2",
+    "vue-router": "^4.0.3",
     "vuex": "^4.0.0-rc.2"
   },
   "devDependencies": {
