@@ -19,7 +19,7 @@
     "@vue/compiler-sfc": "^3.0.5",
     "@vue/eslint-config-typescript": "^7.0.0",
     "@vuedx/typecheck": "^0.6.0",
-    "@vuedx/typescript-plugin-vue": "^0.5.0",
+    "@vuedx/typescript-plugin-vue": "^0.6.0",
     "cross-env": "^7.0.2",
     "eslint": "^7.17.0",
     "eslint-config-cmyr": "^1.0.10",
