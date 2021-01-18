@@ -4336,10 +4336,10 @@ vscode-web-custom-data@^0.3.2:
   resolved "https://registry.npm.taobao.org/vscode-web-custom-data/download/vscode-web-custom-data-0.3.2.tgz#62a5a924397d8056c5524ff0ff8f14eb815b7066"
   integrity sha1-YqWpJDl9gFbFUk/w/48U64FbcGY=
 
-vue-composable@^1.0.0-beta.14:
-  version "1.0.0-beta.14"
-  resolved "https://registry.npm.taobao.org/vue-composable/download/vue-composable-1.0.0-beta.14.tgz#2ed2eea727cc3dcf0c7dbd32477eef338ba33c97"
-  integrity sha1-LtLupyfMPc8Mfb0yR37vM4ujPJc=
+vue-composable@^1.0.0-beta.15:
+  version "1.0.0-beta.15"
+  resolved "https://registry.yarnpkg.com/vue-composable/-/vue-composable-1.0.0-beta.15.tgz#0db548bc204c51109363dbdbf8aa44bbdc5ac14e"
+  integrity sha512-gCcYK8z6VRIWwfNb6KFiPWCXnHZ2oezw50CwyFG+AZhYjXeBGClAvAiEsjiF6OSA+Sd9yelqthyHBUzJiRzZVA==
   dependencies:
     "@vue/devtools-api" "^6.0.0-beta.3"
 
