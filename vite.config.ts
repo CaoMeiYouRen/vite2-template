@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import path from 'path'
-const projectRootDir = path.resolve(__dirname)
 export default defineConfig({
     server: {
         port: 4000,
@@ -9,7 +8,9 @@ export default defineConfig({
         proxy: {},
     },
     plugins: [vue()],
-    alias: {
-        '@': path.resolve(projectRootDir, 'src'),
+    resolve: {
+        alias: {
+            '@': path.resolve(__dirname, 'src'),
+        },
     },
 })
