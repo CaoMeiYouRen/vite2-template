@@ -7,7 +7,7 @@
     "lint": "cross-env NODE_ENV=production eslint src *.js *.ts --fix --ext .js,.ts,.vue"
   },
   "dependencies": {
-    "vue": "^3.0.5",
+    "vue": "^3.0.6",
     "vue-composable": "^1.0.0-beta.18",
     "vue-router": "^4.0.4",
     "vuex": "^4.0.0"
@@ -16,7 +16,7 @@
     "@typescript-eslint/eslint-plugin": "^4.15.2",
     "@typescript-eslint/parser": "^4.15.2",
     "@vitejs/plugin-vue": "^1.1.4",
-    "@vue/compiler-sfc": "^3.0.5",
+    "@vue/compiler-sfc": "^3.0.6",
     "@vue/eslint-config-typescript": "^7.0.0",
     "@vuedx/typecheck": "^0.6.3",
     "@vuedx/typescript-plugin-vue": "^0.6.3",
