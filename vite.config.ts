@@ -12,6 +12,12 @@ export default defineConfig({
         vue(),
         tsconfigPaths(),
     ],
+    esbuild: {
+        target: [
+            'chrome70',
+            'es2019',
+        ],
+    },
     build: {
         target: [
             'chrome70',
