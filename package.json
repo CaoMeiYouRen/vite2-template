@@ -24,7 +24,7 @@
     "cross-env": "^7.0.2",
     "eslint": "^8.19.0",
     "eslint-config-cmyr": "^1.1.20",
-    "eslint-plugin-vue": "^7.20.0",
+    "eslint-plugin-vue": "^9.2.0",
     "sass": "^1.53.0",
     "stylelint": "^14.9.1",
     "stylelint-config-cmyr": "^0.2.1",
