@@ -6,5 +6,6 @@ module.exports = {
     ],
     rules: {
         'no-unused-vars': 0,
+        'vue/multi-word-component-names': 1,
     },
 }
