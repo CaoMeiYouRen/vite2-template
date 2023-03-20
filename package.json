@@ -29,7 +29,7 @@
     "stylelint": "^15.3.0",
     "stylelint-config-cmyr": "^0.2.1",
     "stylelint-config-rational-order": "^0.1.2",
-    "stylelint-config-standard": "^30.0.1",
+    "stylelint-config-standard": "^31.0.0",
     "stylelint-order": "^6.0.3",
     "stylelint-scss": "^4.5.0",
     "typescript": "^5.0.2",
