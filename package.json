@@ -8,7 +8,7 @@
     "lint": "cross-env NODE_ENV=production eslint src *.js *.ts --fix --ext .js,.ts,.vue"
   },
   "dependencies": {
-    "pinia": "^2.0.33",
+    "pinia": "^2.0.34",
     "vue": "^3.2.47",
     "vue-composable": "^1.0.0-beta.24",
     "vue-router": "^4.1.6"
